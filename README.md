@@ -1,7 +1,11 @@
 ## Hi there 👋
+
 🧑‍🔬 After work and studies in chemistry 
+
 🌱 Starting a new life as a student in web developpement at 28 👨‍🎓
+
 💬 I speak french and english
+
 ⚡ I also enjoy 3D printing and laser cutting 
 
 
