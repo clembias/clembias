@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍🔬 After work and studies in chemistry 
+🧑‍🔬 Pas life in chemistry 
 
 🌱 Starting a new life as a student in web developpement at 28 👨‍🎓
 
@@ -8,7 +8,7 @@
 
 ⚡ I also enjoy 3D printing and laser cutting 
 
-
+:e-mail: You can contact me by [mail](mailto:clembias.dev@protonmail.com) 
 
 <!--
 **clembias/clembias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
