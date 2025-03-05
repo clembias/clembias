@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍🔬 Pas life in chemistry 
+🧑‍🔬 Past life in chemistry 
 
 🌱 Starting a new life as a student in web developpement at 28 👨‍🎓
 
